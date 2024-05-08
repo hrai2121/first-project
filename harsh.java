@@ -1,0 +1,4 @@
+Class lucky{
+m1(){
+}
+}
